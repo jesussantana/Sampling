@@ -1,10 +1,44 @@
-# local package
--e .
-
-# external requirements
-click
-Sphinx
-coverage
-awscli
-flake8
-python-dotenv>=0.5.1
+arrow==1.0.3
+backcall==0.2.0
+binaryornot==0.4.4
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///tmp/build/80754af9/cffi_1613246945912/work
+chardet @ file:///tmp/build/80754af9/chardet_1607706746162/work
+classifier==2.0
+conda==4.10.1
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018141399/work
+cookiecutter==1.7.2
+cryptography @ file:///tmp/build/80754af9/cryptography_1616769286105/work
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+ipykernel==5.5.3
+ipython==7.22.0
+jedi==0.18.0
+Jinja2==2.11.3
+jinja2-time==0.2.0
+jupyter-client==6.1.12
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.20.2
+pandas==1.2.4
+parso==0.8.2
+pickleshare==0.7.5
+poyo==0.5.0
+prompt-toolkit==3.0.18
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-slugify==4.0.1
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+pyzmq==22.0.3
+requests==2.25.1
+ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016699510/work
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+text-unidecode==1.3
+tornado==6.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+wcwidth==0.2.5
